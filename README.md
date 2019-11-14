@@ -2,7 +2,7 @@
 
 In this repository are a series of tutorials regarding how to move towards compliance with the [FAIR Principles](https://www.nature.com/articles/sdata201618).
 
-Most tutorials are focused on becoming compliant with a single [FAIR Maturity Indicator](https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators) Test.  This allows you to first execute a ([publication here](https://www.nature.com/articles/s41597-019-0184-5)) on your resource, and then focus only on those tests that failed. The tutorial will suggests one or more options for achieving success on that test, and will often provide different suggestions depending on the type of resource being tested.
+Most tutorials are focused on becoming compliant with a single [FAIR Maturity Indicator](https://github.com/FAIRMetrics/Metrics/tree/master/MaturityIndicators) Test.  This allows you to first execute a [FAIR Maturity Test](https://w3id.org/AmIFAIR) ([publication here](https://www.nature.com/articles/s41597-019-0184-5)) on your resource, and then focus only on those tests that failed. The tutorial will suggests one or more options for achieving success on that test, and will often provide different suggestions depending on the type of resource being tested.
 
 # To Begin
 
