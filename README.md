@@ -6,7 +6,7 @@ Most tutorials are focused on becoming compliant with a single [FAIR Maturity In
 
 # To Begin
 
-If you have already run a [FAIR Maturity Test](https://w3id.org/AmIFAIR) then you probably want to go directly to the explanations and tutorials related to the tests you failed.  In that case, you should go to the [Index of MI Tests](./IndexOfTests).
+If you have already run a [FAIR Maturity Test](https://w3id.org/AmIFAIR) then you probably want to go directly to the explanations and tutorials related to the tests you failed.  In that case, you should go to the [Index of MI Tests](./MI_Test_Tutorials).
 
 If you are more generally interested in how to prepare for FAIR data publication, or have not yet run a [FAIR Maturity Test](https://w3id.org/AmIFAIR), then you should first [Choose Your Path](./GettingStarted.md) based on what kind of publisher you are going to be.
 
